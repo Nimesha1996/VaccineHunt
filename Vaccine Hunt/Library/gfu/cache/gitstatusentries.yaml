@@ -13,96 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-01-31T08:14:33.209+05:30
-  initializedAtString: 2021-01-31T06:18:00.750+05:30
+  lastUpdatedAtString: 2021-01-31T10:53:10.436+05:30
+  initializedAtString: 2021-01-31T08:17:25.481+05:30
   entries:
-  - path: Vaccine Hunt\Assets\Audio.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Audio.meta
-    projectPath: Assets\Audio.meta
+  - path: Vaccine Hunt\Assets\Gothicvania-Town\Art\Environment\props-sliced\Materials.meta
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Gothicvania-Town\Art\Environment\props-sliced\Materials.meta
+    projectPath: Assets\Gothicvania-Town\Art\Environment\props-sliced\Materials.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Audio\FX01.aif
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Audio\FX01.aif
-    projectPath: Assets\Audio\FX01.aif
+  - path: Vaccine Hunt\Assets\Gothicvania-Town\Art\Environment\props-sliced\Materials\crate.mat
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Gothicvania-Town\Art\Environment\props-sliced\Materials\crate.mat
+    projectPath: Assets\Gothicvania-Town\Art\Environment\props-sliced\Materials\crate.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Audio\FX01.aif.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Audio\FX01.aif.meta
-    projectPath: Assets\Audio\FX01.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Audio\FX02.aif
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Audio\FX02.aif
-    projectPath: Assets\Audio\FX02.aif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Audio\FX02.aif.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Audio\FX02.aif.meta
-    projectPath: Assets\Audio\FX02.aif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Materials\Materials.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Materials\Materials.meta
-    projectPath: Assets\Materials\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Materials\Materials\TexturesCom_BrickMessy0334_1_seamless_S.mat
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Materials\Materials\TexturesCom_BrickMessy0334_1_seamless_S.mat
-    projectPath: Assets\Materials\Materials\TexturesCom_BrickMessy0334_1_seamless_S.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Materials\Materials\TexturesCom_BrickMessy0334_1_seamless_S.mat.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Materials\Materials\TexturesCom_BrickMessy0334_1_seamless_S.mat.meta
-    projectPath: Assets\Materials\Materials\TexturesCom_BrickMessy0334_1_seamless_S.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Materials\TexturesCom_BrickMessy0334_1_seamless_S.jpg
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Materials\TexturesCom_BrickMessy0334_1_seamless_S.jpg
-    projectPath: Assets\Materials\TexturesCom_BrickMessy0334_1_seamless_S.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Materials\TexturesCom_BrickMessy0334_1_seamless_S.jpg.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Materials\TexturesCom_BrickMessy0334_1_seamless_S.jpg.meta
-    projectPath: Assets\Materials\TexturesCom_BrickMessy0334_1_seamless_S.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects.meta
-    projectPath: Assets\Objects.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan.meta
-    projectPath: Assets\Objects\MushroomMan.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\GRIB.jpg
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\GRIB.jpg
-    projectPath: Assets\Objects\MushroomMan\GRIB.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\GRIB.jpg.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\GRIB.jpg.meta
-    projectPath: Assets\Objects\MushroomMan\GRIB.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\Materials.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\Materials.meta
-    projectPath: Assets\Objects\MushroomMan\Materials.meta
+  - path: Vaccine Hunt\Assets\Gothicvania-Town\Art\Environment\props-sliced\Materials\crate.mat.meta
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Gothicvania-Town\Art\Environment\props-sliced\Materials\crate.mat.meta
+    projectPath: Assets\Gothicvania-Town\Art\Environment\props-sliced\Materials\crate.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -110,113 +38,53 @@ MonoBehaviour:
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\Materials\Material__2.mat
     projectPath: Assets\Objects\MushroomMan\Materials\Material__2.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\Materials\Material__2.mat.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\Materials\Material__2.mat.meta
-    projectPath: Assets\Objects\MushroomMan\Materials\Material__2.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Vaccine Hunt\Assets\Objects\MushroomMan\Materials\Virus.mat
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\Materials\Virus.mat
     projectPath: Assets\Objects\MushroomMan\Materials\Virus.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\Materials\Virus.mat.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\Materials\Virus.mat.meta
-    projectPath: Assets\Objects\MushroomMan\Materials\Virus.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\MushroomMan.mtl
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\MushroomMan.mtl
-    projectPath: Assets\Objects\MushroomMan\MushroomMan.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\MushroomMan.mtl.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\MushroomMan.mtl.meta
-    projectPath: Assets\Objects\MushroomMan\MushroomMan.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\MushroomMan.obj
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\MushroomMan.obj
-    projectPath: Assets\Objects\MushroomMan\MushroomMan.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\MushroomMan.obj.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\MushroomMan.obj.meta
-    projectPath: Assets\Objects\MushroomMan\MushroomMan.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\Virus.png
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\Virus.png
-    projectPath: Assets\Objects\MushroomMan\Virus.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Objects\MushroomMan\Virus.png.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Objects\MushroomMan\Virus.png.meta
-    projectPath: Assets\Objects\MushroomMan\Virus.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scenes\levelReload.unity
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\levelReload.unity
-    projectPath: Assets\Scenes\levelReload.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scenes\levelReload.unity.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\levelReload.unity.meta
-    projectPath: Assets\Scenes\levelReload.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scenes\SampleScene.unity
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Vaccine Hunt\Assets\Scenes\SampleScene.unity.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\SampleScene.unity.meta
-    projectPath: Assets\Scenes\SampleScene.unity.meta
+    workTreeStatus: 3
+  - path: Vaccine Hunt\Assets\Scenes\GameOver.unity
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\GameOver.unity
+    projectPath: Assets\Scenes\GameOver.unity
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Vaccine Hunt\Assets\Scenes\GameOver.unity.meta
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\GameOver.unity.meta
+    projectPath: Assets\Scenes\GameOver.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Vaccine Hunt\Assets\Scenes\MainMenu.unity
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\MainMenu.unity
+    projectPath: Assets\Scenes\MainMenu.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Vaccine Hunt\Assets\Scenes\MainMenu.unity.meta
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\MainMenu.unity.meta
+    projectPath: Assets\Scenes\MainMenu.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Vaccine Hunt\Assets\Scenes\scene1.unity
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\scene1.unity
     projectPath: Assets\Scenes\scene1.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Vaccine Hunt\Assets\Scenes\scene1.unity.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scenes\scene1.unity.meta
-    projectPath: Assets\Scenes\scene1.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Vaccine Hunt\Assets\Scripts\DeathScripts.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\DeathScripts.meta
-    projectPath: Assets\Scripts\DeathScripts.meta
+  - path: Vaccine Hunt\Assets\Scripts\DeathScripts\GameOverToMenu.cs
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\DeathScripts\GameOverToMenu.cs
+    projectPath: Assets\Scripts\DeathScripts\GameOverToMenu.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scripts\DeathScripts\Death1.cs
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\DeathScripts\Death1.cs
-    projectPath: Assets\Scripts\DeathScripts\Death1.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scripts\DeathScripts\Death1.cs.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\DeathScripts\Death1.cs.meta
-    projectPath: Assets\Scripts\DeathScripts\Death1.cs.meta
+  - path: Vaccine Hunt\Assets\Scripts\DeathScripts\GameOverToMenu.cs.meta
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\DeathScripts\GameOverToMenu.cs.meta
+    projectPath: Assets\Scripts\DeathScripts\GameOverToMenu.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -224,41 +92,23 @@ MonoBehaviour:
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\GlobalLives.cs
     projectPath: Assets\Scripts\GlobalLives.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scripts\GlobalLives.cs.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\GlobalLives.cs.meta
-    projectPath: Assets\Scripts\GlobalLives.cs.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Vaccine Hunt\Assets\Scripts\MenuScripts.meta
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\MenuScripts.meta
+    projectPath: Assets\Scripts\MenuScripts.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scripts\PreLoads.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\PreLoads.meta
-    projectPath: Assets\Scripts\PreLoads.meta
+  - path: Vaccine Hunt\Assets\Scripts\MenuScripts\MenuButton.cs
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\MenuScripts\MenuButton.cs
+    projectPath: Assets\Scripts\MenuScripts\MenuButton.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scripts\PreLoads\scne1_preload.cs
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\PreLoads\scne1_preload.cs
-    projectPath: Assets\Scripts\PreLoads\scne1_preload.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scripts\PreLoads\scne1_preload.cs.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\PreLoads\scne1_preload.cs.meta
-    projectPath: Assets\Scripts\PreLoads\scne1_preload.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scripts\VirusMove.cs
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\VirusMove.cs
-    projectPath: Assets\Scripts\VirusMove.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Assets\Scripts\VirusMove.cs.meta
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\VirusMove.cs.meta
-    projectPath: Assets\Scripts\VirusMove.cs.meta
+  - path: Vaccine Hunt\Assets\Scripts\MenuScripts\MenuButton.cs.meta
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Assets\Scripts\MenuScripts\MenuButton.cs.meta
+    projectPath: Assets\Scripts\MenuScripts\MenuButton.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -268,63 +118,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Vaccine Hunt\Library\Artifacts\01\0154dbaad4c4950c2b87ee7fb778d45a
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\01\0154dbaad4c4950c2b87ee7fb778d45a
-    projectPath: Library\Artifacts\01\0154dbaad4c4950c2b87ee7fb778d45a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\01\01da9925bc8499c8f6c965fb4e94fa6e
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\01\01da9925bc8499c8f6c965fb4e94fa6e
-    projectPath: Library\Artifacts\01\01da9925bc8499c8f6c965fb4e94fa6e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Vaccine Hunt\Library\Artifacts\05\056722192ecb09d3c9e58e0dd717a2b9
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\05\056722192ecb09d3c9e58e0dd717a2b9
     projectPath: Library\Artifacts\05\056722192ecb09d3c9e58e0dd717a2b9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\06\066fd80b572e393d0a0383aa2070ece9
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\06\066fd80b572e393d0a0383aa2070ece9
-    projectPath: Library\Artifacts\06\066fd80b572e393d0a0383aa2070ece9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Vaccine Hunt\Library\Artifacts\08\08f18de9e96f9defca78505a41153c9a
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\08\08f18de9e96f9defca78505a41153c9a
     projectPath: Library\Artifacts\08\08f18de9e96f9defca78505a41153c9a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Vaccine Hunt\Library\Artifacts\11\11aa5398e9a9dd5868cde48435236f9e
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\11\11aa5398e9a9dd5868cde48435236f9e
     projectPath: Library\Artifacts\11\11aa5398e9a9dd5868cde48435236f9e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\12\1241059b57a79410015cdc69a2780809
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\12\1241059b57a79410015cdc69a2780809
-    projectPath: Library\Artifacts\12\1241059b57a79410015cdc69a2780809
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\13\13d6dbb365e236f28cf5bb74b8ed5ab3
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\13\13d6dbb365e236f28cf5bb74b8ed5ab3
-    projectPath: Library\Artifacts\13\13d6dbb365e236f28cf5bb74b8ed5ab3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\20\204dd2a66405a969767b8b2ac91bf2c9
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\20\204dd2a66405a969767b8b2ac91bf2c9
-    projectPath: Library\Artifacts\20\204dd2a66405a969767b8b2ac91bf2c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\21\21746fb68b67e8c25711980c1d69f8ae
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\21\21746fb68b67e8c25711980c1d69f8ae
-    projectPath: Library\Artifacts\21\21746fb68b67e8c25711980c1d69f8ae
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Vaccine Hunt\Library\Artifacts\1b\1b75ee41ad52bc75edcff25420b98015
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\1b\1b75ee41ad52bc75edcff25420b98015
+    projectPath: Library\Artifacts\1b\1b75ee41ad52bc75edcff25420b98015
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -332,41 +146,23 @@ MonoBehaviour:
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\26\26d305d4b9eaacec70927eaf2640ecb5
     projectPath: Library\Artifacts\26\26d305d4b9eaacec70927eaf2640ecb5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\28\28f9f7b4170521063788f9ad1af3561a
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\28\28f9f7b4170521063788f9ad1af3561a
-    projectPath: Library\Artifacts\28\28f9f7b4170521063788f9ad1af3561a
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Vaccine Hunt\Library\Artifacts\2b\2b55b078d91bd9e5b848127d5c2769c0
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\2b\2b55b078d91bd9e5b848127d5c2769c0
+    projectPath: Library\Artifacts\2b\2b55b078d91bd9e5b848127d5c2769c0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Vaccine Hunt\Library\Artifacts\31\31a6288c8b0dec61166217069eee1a50
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\31\31a6288c8b0dec61166217069eee1a50
+    projectPath: Library\Artifacts\31\31a6288c8b0dec61166217069eee1a50
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\29\29849ece2ed3d5dc85765ae987797401
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\29\29849ece2ed3d5dc85765ae987797401
-    projectPath: Library\Artifacts\29\29849ece2ed3d5dc85765ae987797401
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\2b\2bd20ffb1efe8bbb756356a7a880ec80
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\2b\2bd20ffb1efe8bbb756356a7a880ec80
-    projectPath: Library\Artifacts\2b\2bd20ffb1efe8bbb756356a7a880ec80
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\3b\3b2af963c981c2c84ecfe77076ea8d69
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\3b\3b2af963c981c2c84ecfe77076ea8d69
-    projectPath: Library\Artifacts\3b\3b2af963c981c2c84ecfe77076ea8d69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\40\40408bbee7b4e859299998001957f370
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\40\40408bbee7b4e859299998001957f370
-    projectPath: Library\Artifacts\40\40408bbee7b4e859299998001957f370
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\44\4491a212403cbdc19a6395f84e15b0b0
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\44\4491a212403cbdc19a6395f84e15b0b0
-    projectPath: Library\Artifacts\44\4491a212403cbdc19a6395f84e15b0b0
+  - path: Vaccine Hunt\Library\Artifacts\4d\4df2406d7c538547044f1aea9caec3e7
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\4d\4df2406d7c538547044f1aea9caec3e7
+    projectPath: Library\Artifacts\4d\4df2406d7c538547044f1aea9caec3e7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -374,101 +170,29 @@ MonoBehaviour:
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\51\51d171b86f9cbab6b936030b9bce18e6
     projectPath: Library\Artifacts\51\51d171b86f9cbab6b936030b9bce18e6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\54\544943903cb075c883d2bb353b25ed66
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\54\544943903cb075c883d2bb353b25ed66
-    projectPath: Library\Artifacts\54\544943903cb075c883d2bb353b25ed66
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\56\56015ecc1070259ee0e65aad28a27e0e
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\56\56015ecc1070259ee0e65aad28a27e0e
-    projectPath: Library\Artifacts\56\56015ecc1070259ee0e65aad28a27e0e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\58\585ee2b6d6a4672f40a4a75627eeb886
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\58\585ee2b6d6a4672f40a4a75627eeb886
-    projectPath: Library\Artifacts\58\585ee2b6d6a4672f40a4a75627eeb886
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\58\589434712e7135718afd81ef2a8c66d3
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\58\589434712e7135718afd81ef2a8c66d3
-    projectPath: Library\Artifacts\58\589434712e7135718afd81ef2a8c66d3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\5c\5ccbfcdd4ec903283a75164ae83e4440
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\5c\5ccbfcdd4ec903283a75164ae83e4440
-    projectPath: Library\Artifacts\5c\5ccbfcdd4ec903283a75164ae83e4440
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\60\60b8e6be0ed46a9f98e6ff2227b1a1a6
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\60\60b8e6be0ed46a9f98e6ff2227b1a1a6
-    projectPath: Library\Artifacts\60\60b8e6be0ed46a9f98e6ff2227b1a1a6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\62\625d9ce9ec99b313b48481d12b242203
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\62\625d9ce9ec99b313b48481d12b242203
-    projectPath: Library\Artifacts\62\625d9ce9ec99b313b48481d12b242203
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\64\64912c8302c9ad6ab2204c5c95393427
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\64\64912c8302c9ad6ab2204c5c95393427
-    projectPath: Library\Artifacts\64\64912c8302c9ad6ab2204c5c95393427
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\67\670a55a4d4d603049bf46a49c0ba3945
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\67\670a55a4d4d603049bf46a49c0ba3945
-    projectPath: Library\Artifacts\67\670a55a4d4d603049bf46a49c0ba3945
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Vaccine Hunt\Library\Artifacts\69\6997a9dcbe105776571c5201105d91f7
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\69\6997a9dcbe105776571c5201105d91f7
-    projectPath: Library\Artifacts\69\6997a9dcbe105776571c5201105d91f7
+  - path: Vaccine Hunt\Library\Artifacts\53\530b99ec3e423e608267b5b6c61685e3
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\53\530b99ec3e423e608267b5b6c61685e3
+    projectPath: Library\Artifacts\53\530b99ec3e423e608267b5b6c61685e3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\74\74adf70851bcd38abd70e60caeb5b13e
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\74\74adf70851bcd38abd70e60caeb5b13e
-    projectPath: Library\Artifacts\74\74adf70851bcd38abd70e60caeb5b13e
+  - path: Vaccine Hunt\Library\Artifacts\70\702bb859ec0a47dd82220a1ba7cac8c7
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\70\702bb859ec0a47dd82220a1ba7cac8c7
+    projectPath: Library\Artifacts\70\702bb859ec0a47dd82220a1ba7cac8c7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\79\795919e647750bc459918e6d20a09dc7
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\79\795919e647750bc459918e6d20a09dc7
-    projectPath: Library\Artifacts\79\795919e647750bc459918e6d20a09dc7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Vaccine Hunt\Library\Artifacts\82\8231b4733bb1f05982648d98e3e70a3e
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\82\8231b4733bb1f05982648d98e3e70a3e
-    projectPath: Library\Artifacts\82\8231b4733bb1f05982648d98e3e70a3e
+  - path: Vaccine Hunt\Library\Artifacts\73\731bcf7df68f3bb8d6ad7cc5a82878b2
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\73\731bcf7df68f3bb8d6ad7cc5a82878b2
+    projectPath: Library\Artifacts\73\731bcf7df68f3bb8d6ad7cc5a82878b2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\86\8601d6dd3384b64a4d112363785a7f0f
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\86\8601d6dd3384b64a4d112363785a7f0f
-    projectPath: Library\Artifacts\86\8601d6dd3384b64a4d112363785a7f0f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\9d\9dd1b94041601b9e434e3e71e795e083
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\9d\9dd1b94041601b9e434e3e71e795e083
-    projectPath: Library\Artifacts\9d\9dd1b94041601b9e434e3e71e795e083
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\af\af4f6f2c782a96e97de5d0031f135db5
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\af\af4f6f2c782a96e97de5d0031f135db5
-    projectPath: Library\Artifacts\af\af4f6f2c782a96e97de5d0031f135db5
+  - path: Vaccine Hunt\Library\Artifacts\75\75d5440977abda3fc8637c2aa7f0a2ae
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\75\75d5440977abda3fc8637c2aa7f0a2ae
+    projectPath: Library\Artifacts\75\75d5440977abda3fc8637c2aa7f0a2ae
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -476,83 +200,35 @@ MonoBehaviour:
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\b1\b1b0528ecb03fe6e28f67de732edc091
     projectPath: Library\Artifacts\b1\b1b0528ecb03fe6e28f67de732edc091
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\b2\b2b86d81cec463bbeb293b43b93916c7
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\b2\b2b86d81cec463bbeb293b43b93916c7
-    projectPath: Library\Artifacts\b2\b2b86d81cec463bbeb293b43b93916c7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\b3\b3010dc30c8584d6391d143037bb64ce
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\b3\b3010dc30c8584d6391d143037bb64ce
-    projectPath: Library\Artifacts\b3\b3010dc30c8584d6391d143037bb64ce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\b3\b301663c8a958954f8c0be050950b505
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\b3\b301663c8a958954f8c0be050950b505
-    projectPath: Library\Artifacts\b3\b301663c8a958954f8c0be050950b505
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Vaccine Hunt\Library\Artifacts\ba\baaaa5930f87814b039d7b14c176e1b5
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\ba\baaaa5930f87814b039d7b14c176e1b5
-    projectPath: Library\Artifacts\ba\baaaa5930f87814b039d7b14c176e1b5
+  - path: Vaccine Hunt\Library\Artifacts\c6\c6f5a11f755e2974baa5a5d0197d2021
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\c6\c6f5a11f755e2974baa5a5d0197d2021
+    projectPath: Library\Artifacts\c6\c6f5a11f755e2974baa5a5d0197d2021
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\c3\c3c73327891c80f3467e94c9c4f21162
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\c3\c3c73327891c80f3467e94c9c4f21162
-    projectPath: Library\Artifacts\c3\c3c73327891c80f3467e94c9c4f21162
+  - path: Vaccine Hunt\Library\Artifacts\c7\c7b3a3527a16cc6bd2cef3af2af2671f
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\c7\c7b3a3527a16cc6bd2cef3af2af2671f
+    projectPath: Library\Artifacts\c7\c7b3a3527a16cc6bd2cef3af2af2671f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\c4\c4b837b6e401a1871c29c882dc2d9fb4
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\c4\c4b837b6e401a1871c29c882dc2d9fb4
-    projectPath: Library\Artifacts\c4\c4b837b6e401a1871c29c882dc2d9fb4
+  - path: Vaccine Hunt\Library\Artifacts\d0\d0b29cfe5b923b85500ea58954a58064
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\d0\d0b29cfe5b923b85500ea58954a58064
+    projectPath: Library\Artifacts\d0\d0b29cfe5b923b85500ea58954a58064
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\d4\d4babaeea5e87abc52c4eea41b454885
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\d4\d4babaeea5e87abc52c4eea41b454885
-    projectPath: Library\Artifacts\d4\d4babaeea5e87abc52c4eea41b454885
+  - path: Vaccine Hunt\Library\Artifacts\ea\ea3e51f122a0497981521cc499d89f62
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\ea\ea3e51f122a0497981521cc499d89f62
+    projectPath: Library\Artifacts\ea\ea3e51f122a0497981521cc499d89f62
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\d5\d59289d3a3504d72591344f4616319cc
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\d5\d59289d3a3504d72591344f4616319cc
-    projectPath: Library\Artifacts\d5\d59289d3a3504d72591344f4616319cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\d5\d595744a9d8aff456453abb36dcf3119
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\d5\d595744a9d8aff456453abb36dcf3119
-    projectPath: Library\Artifacts\d5\d595744a9d8aff456453abb36dcf3119
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Vaccine Hunt\Library\Artifacts\db\db0da641ee4f5045a0c208e6987d9daa
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\db\db0da641ee4f5045a0c208e6987d9daa
-    projectPath: Library\Artifacts\db\db0da641ee4f5045a0c208e6987d9daa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\e3\e3d5d20cd45541d962688ad8989876b8
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\e3\e3d5d20cd45541d962688ad8989876b8
-    projectPath: Library\Artifacts\e3\e3d5d20cd45541d962688ad8989876b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Library\Artifacts\eb\eb78caf7a80e3fa097a6b18da6ee3a2e
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\eb\eb78caf7a80e3fa097a6b18da6ee3a2e
-    projectPath: Library\Artifacts\eb\eb78caf7a80e3fa097a6b18da6ee3a2e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Vaccine Hunt\Library\Artifacts\f5\f5822b4114eb87d815251cfb2c8d4cd8
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\f5\f5822b4114eb87d815251cfb2c8d4cd8
-    projectPath: Library\Artifacts\f5\f5822b4114eb87d815251cfb2c8d4cd8
+  - path: Vaccine Hunt\Library\Artifacts\f7\f75d8ae54de575186963c22bc50bf42f
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\f7\f75d8ae54de575186963c22bc50bf42f
+    projectPath: Library\Artifacts\f7\f75d8ae54de575186963c22bc50bf42f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -560,26 +236,20 @@ MonoBehaviour:
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\Artifacts\f9\f952e8676868ad7f7531768569b1747a
     projectPath: Library\Artifacts\f9\f952e8676868ad7f7531768569b1747a
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Vaccine Hunt\Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\CurrentLayout-default.dwlt
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Vaccine Hunt\Library\EditorInstance.json
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Library\EditorUserBuildSettings.asset
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Vaccine Hunt\Library\gfu\cache\gitlocks.yaml
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -622,12 +292,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Vaccine Hunt\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Vaccine Hunt\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -652,18 +316,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Vaccine Hunt\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Vaccine Hunt\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Vaccine Hunt\ProjectSettings\EditorBuildSettings.asset
     fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\ProjectSettings\EditorBuildSettings.asset
     projectPath: ProjectSettings\EditorBuildSettings.asset
@@ -682,93 +334,63 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-1533006a26460af4bb5b44f7750939d4
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-1533006a26460af4bb5b44f7750939d4
-    projectPath: Temp\UnityTempFile-1533006a26460af4bb5b44f7750939d4
+  - path: Vaccine Hunt\Temp\UnityTempFile-0f07f6a7e2ae845488cf09fa065d40a4
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-0f07f6a7e2ae845488cf09fa065d40a4
+    projectPath: Temp\UnityTempFile-0f07f6a7e2ae845488cf09fa065d40a4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-303b2dc9e225ff04f8468ebe48d6243b
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-303b2dc9e225ff04f8468ebe48d6243b
-    projectPath: Temp\UnityTempFile-303b2dc9e225ff04f8468ebe48d6243b
+  - path: Vaccine Hunt\Temp\UnityTempFile-3e7ebfae5a042d548bf9305100043eed
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-3e7ebfae5a042d548bf9305100043eed
+    projectPath: Temp\UnityTempFile-3e7ebfae5a042d548bf9305100043eed
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-4241096c2ecdbaf46ad07fb1226c10f0
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-4241096c2ecdbaf46ad07fb1226c10f0
-    projectPath: Temp\UnityTempFile-4241096c2ecdbaf46ad07fb1226c10f0
+  - path: Vaccine Hunt\Temp\UnityTempFile-47a998641531076458eb539d4d3320ad
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-47a998641531076458eb539d4d3320ad
+    projectPath: Temp\UnityTempFile-47a998641531076458eb539d4d3320ad
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-493fa5255c640f041ac864b634885801
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-493fa5255c640f041ac864b634885801
-    projectPath: Temp\UnityTempFile-493fa5255c640f041ac864b634885801
+  - path: Vaccine Hunt\Temp\UnityTempFile-4c5419f9ff33af84981722206882b9be
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-4c5419f9ff33af84981722206882b9be
+    projectPath: Temp\UnityTempFile-4c5419f9ff33af84981722206882b9be
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-4ef78884c7abae34dab21657809d1bda
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-4ef78884c7abae34dab21657809d1bda
-    projectPath: Temp\UnityTempFile-4ef78884c7abae34dab21657809d1bda
+  - path: Vaccine Hunt\Temp\UnityTempFile-78e82464c488e434c89aff9e92c7acc6
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-78e82464c488e434c89aff9e92c7acc6
+    projectPath: Temp\UnityTempFile-78e82464c488e434c89aff9e92c7acc6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-5061caff947c36b4eb2943e7170cd6e8
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-5061caff947c36b4eb2943e7170cd6e8
-    projectPath: Temp\UnityTempFile-5061caff947c36b4eb2943e7170cd6e8
+  - path: Vaccine Hunt\Temp\UnityTempFile-7eb26f8571a649e4bb59e0cdfbb819fc
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-7eb26f8571a649e4bb59e0cdfbb819fc
+    projectPath: Temp\UnityTempFile-7eb26f8571a649e4bb59e0cdfbb819fc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-50824acfb9819c74283866fe79d9c3cf
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-50824acfb9819c74283866fe79d9c3cf
-    projectPath: Temp\UnityTempFile-50824acfb9819c74283866fe79d9c3cf
+  - path: Vaccine Hunt\Temp\UnityTempFile-8646f07ab83a8484d9f092548bafe7d9
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-8646f07ab83a8484d9f092548bafe7d9
+    projectPath: Temp\UnityTempFile-8646f07ab83a8484d9f092548bafe7d9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-545469a7a19445842adca301b3b9b07b
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-545469a7a19445842adca301b3b9b07b
-    projectPath: Temp\UnityTempFile-545469a7a19445842adca301b3b9b07b
+  - path: Vaccine Hunt\Temp\UnityTempFile-9785d450ee2b0a240889dde85e5edeea
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-9785d450ee2b0a240889dde85e5edeea
+    projectPath: Temp\UnityTempFile-9785d450ee2b0a240889dde85e5edeea
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-579180c8be2aa4a4f87e26897c6a4c56
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-579180c8be2aa4a4f87e26897c6a4c56
-    projectPath: Temp\UnityTempFile-579180c8be2aa4a4f87e26897c6a4c56
+  - path: Vaccine Hunt\Temp\UnityTempFile-b4bc9c939b2163845b033fe466b428f4
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-b4bc9c939b2163845b033fe466b428f4
+    projectPath: Temp\UnityTempFile-b4bc9c939b2163845b033fe466b428f4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-6ee68e75a3e02c943abb0cd36a320ec1
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-6ee68e75a3e02c943abb0cd36a320ec1
-    projectPath: Temp\UnityTempFile-6ee68e75a3e02c943abb0cd36a320ec1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-9e77e124f9e073b4fb51f87d64d7b3ce
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-9e77e124f9e073b4fb51f87d64d7b3ce
-    projectPath: Temp\UnityTempFile-9e77e124f9e073b4fb51f87d64d7b3ce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-ab7bc651cbec8ba4c81131a554aa6002
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-ab7bc651cbec8ba4c81131a554aa6002
-    projectPath: Temp\UnityTempFile-ab7bc651cbec8ba4c81131a554aa6002
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-b2b1680a1c5208f42888cfc80afe8c6f
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-b2b1680a1c5208f42888cfc80afe8c6f
-    projectPath: Temp\UnityTempFile-b2b1680a1c5208f42888cfc80afe8c6f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-c75cc7c8e2493c342acd8e2b3d490d41
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-c75cc7c8e2493c342acd8e2b3d490d41
-    projectPath: Temp\UnityTempFile-c75cc7c8e2493c342acd8e2b3d490d41
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Vaccine Hunt\Temp\UnityTempFile-dc0a1bd8b4350a444a8757f5db3d0656
-    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-dc0a1bd8b4350a444a8757f5db3d0656
-    projectPath: Temp\UnityTempFile-dc0a1bd8b4350a444a8757f5db3d0656
+  - path: Vaccine Hunt\Temp\UnityTempFile-ea00d5f6fc73c214abc26a1fe488f5cf
+    fullPath: D:\projects\GGJ\VaccineHunt\Vaccine Hunt\Temp\UnityTempFile-ea00d5f6fc73c214abc26a1fe488f5cf
+    projectPath: Temp\UnityTempFile-ea00d5f6fc73c214abc26a1fe488f5cf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

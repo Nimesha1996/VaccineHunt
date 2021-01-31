@@ -13,7 +13,7 @@ public class GlobalLives : MonoBehaviour
     void Update()
     {
     InternalLives = LivesAmount;
-	LifeTextBox.GetComponent<UnityEngine.UI.Text>().text =" " + InternalLives;
+	LifeTextBox.GetComponent<UnityEngine.UI.Text>().text ="LIVES: " + InternalLives;
 
 	if (InternalLives == 0) {
 		GameOverScene();
