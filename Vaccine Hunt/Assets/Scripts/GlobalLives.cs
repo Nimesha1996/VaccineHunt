@@ -8,8 +8,8 @@ public class GlobalLives : MonoBehaviour
     // Start is called before the first frame update
     // Update is called once per frame
     public GameObject LifeTextBox;
-    public static int LivesAmount;
-    public int InternalLives;
+    public static int LivesAmount = 3;
+    public int InternalLives ;
     void Update()
     {
     InternalLives = LivesAmount;

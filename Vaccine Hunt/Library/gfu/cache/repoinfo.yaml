@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-01-31T08:17:24.409+05:30
-  initializedAtString: 2021-01-31T08:17:24.409+05:30
+  lastUpdatedAtString: 2021-01-31T13:13:54.534+05:30
+  initializedAtString: 2021-01-31T13:13:54.534+05:30
   currentGitRemote:
     name: origin
     url: https://github.com/Nimesha1996/VaccineHunt.git
