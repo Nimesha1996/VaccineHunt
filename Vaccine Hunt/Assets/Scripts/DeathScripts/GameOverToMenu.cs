@@ -10,7 +10,7 @@ public class GameOverToMenu : MonoBehaviour
     {
     yield return new WaitForSeconds (4);
 	GlobalLives.LivesAmount += 3;
-	SceneManager.LoadScene(2);
+	SceneManager.LoadScene(3);
     }
 
   
