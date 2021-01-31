@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/levelReload.unity
+    guid: d13e8d45d1e1553438b66a2dab6fa85c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/scene1.unity
+    guid: 9ac847321c22a7743bd8cad9d502ce37
   m_configObjects: {}
